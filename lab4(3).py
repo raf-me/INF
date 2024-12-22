@@ -1,5 +1,6 @@
 import xml.etree.ElementTree as ET
 import json
+import time
 
 def read_json_from_file(filename):
     with open(filename, 'r', encoding='utf-8') as file:
@@ -31,3 +32,9 @@ xml_result = json_to_xml(data)
 
 with open('task3(1).xml', 'w', encoding='utf-8') as file:
     file.write(xml_result)
+
+print("XML файл успешно сохранен как 'task3(1).xml'.")
+
+end_time = time.time()
+execution_time = end_time - start_time
+print(f"Время выполнения программы: {execution_time} секунд")
