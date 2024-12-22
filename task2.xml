@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Schedule>
+  <Tuesday>
+    <Lesson>
+      <Subject>1. Linear Algebra(practice)</Subject>
+      <Details>08.20 - 09.50, Песочная наб., д.14: ауд. 303</Details>
+      <Subject>Teacher</Subject>
+      <Details>Шиманская Г. А.</Details>
+    </Lesson>
+    <Lesson>
+      <Subject>2. English language</Subject>
+      <Details>11.40 - 13.10, Ломоносова, д.9: ауд. 3202</Details>
+      <Subject>Teacher</Subject>
+      <Details>Зельницкая Е. Ю.</Details>
+    </Lesson>
+    <Lesson>
+      <Subject>3. English language</Subject>
+      <Details>13.30 - 15.00, Ломоносова, д.9: ауд. 3202</Details>
+      <Subject>Teacher</Subject>
+      <Details>Зельницкая Е. Ю.</Details>
+    </Lesson>
+  </Tuesday>
+  <Friday>
+    <Lesson>
+      <Subject>1. Mathematical analysis (lecture)</Subject>
+      <Details>10.00 - 11.30, Кронверский пр., д.49: ауд. 2430</Details>
+      <Subject>Teacher</Subject>
+      <Details>Правдин К. В.</Details>
+    </Lesson>
+    <Lesson>
+      <Subject>2. Mathematical analysis (practical)</Subject>
+      <Details>11.40 - 13.10, Кронверский пр., д.49: ауд. 2430</Details>
+      <Subject>Teacher</Subject>
+      <Details>Савченко Т. В.</Details>
+    </Lesson>
+    <Lesson>
+      <Subject>3. Discrete mathematics</Subject>
+      <Details>17.00 - 18.30, Кронверский пр., д.49: ауд. 1428</Details>
+      <Subject>Teacher</Subject>
+      <Details>Поляков В. И.</Details>
+    </Lesson>
+    <Lesson>
+      <Subject>4. Discrete mathematics</Subject>
+      <Details>18.40 - 20.10, Кронверский пр., д.49: ауд. 1428</Details>
+      <Subject>Teacher</Subject>
+      <Details>Поляков В. И.</Details>
+    </Lesson>
+  </Friday>
+</Schedule>
